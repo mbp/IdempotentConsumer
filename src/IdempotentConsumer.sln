@@ -1,11 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdempotentConsumer", "proj\IdempotentConsumer\IdempotentConsumer.csproj", "{E778AFA7-B60A-4CF4-B9CD-541F2BBBE690}"
-EndProject
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "projects", "projects", "{BE0C22BB-2830-4677-91B9-079F407621A9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{B29B4015-EADA-4C48-A45B-F22AA60E418F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdempotentConsumer", "proj\IdempotentConsumer\IdempotentConsumer.csproj", "{E778AFA7-B60A-4CF4-B9CD-541F2BBBE690}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdempotentConsumer.Core", "proj\IdempotentConsumer.Core\IdempotentConsumer.Core.csproj", "{0858F05A-5586-46C6-9F03-8D13F6AA5043}"
 EndProject
